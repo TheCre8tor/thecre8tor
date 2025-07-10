@@ -1,24 +1,8 @@
-
-
-<!--
-**the-cre8tor/the-cre8tor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 🔁 Also available in: [🇩🇪 Deutsch](./README.de.md)
 
 <h1 align="center">👋 Hi, I'm Alexander Nitiola</h1>
 <p align="center">
-  <strong>Rust Backend Engineer • Distributed Systems • Scalable Architectures</strong><br/>
+  <strong>Senior Software Engineer • Rust & Node.js • Distributed Systems</strong><br/>
   <i>Building performant, fault-tolerant infrastructure with precision</i>
 </p>
 
@@ -26,15 +10,15 @@ Here are some ideas to get you started:
 
 ### 🧠 About Me
 
-I’m a backend-focused Software Engineer with 4+ years of experience designing and implementing **high-performance systems** in the fintech and infrastructure space. My core expertise lies in the **Rust programming language**, particularly with frameworks like **Actix Web** and **SQLx**.
+I'm a backend-focused Software Engineer with over 4 years of experience designing and implementing high-performance systems in the fintech and infrastructure space. My core expertise lies in the **Rust programming language** (Actix Web, Axum, SQLx, Tokio) and **Node.js with TypeScript** (NestJS, Express).
 
 I specialize in:
-- ✳️ Scalable microservices architecture (Rust, TypeScript)
+- ✳️ Scalable microservices and distributed systems (Rust, TypeScript)
 - 🧮 SQL performance tuning and zero-downtime migrations
 - 🧭 Domain-Driven Design and Clean Architecture
 - 🔐 Security, observability, and resilient design patterns
 
-I currently work as a **Senior Software Engineer at Aella MFB**, where I lead system design, performance optimization, and engineering best practices for business-critical services.
+I currently work as a **Senior Software Engineer at Aella MFB**, where I lead system design, performance optimization, and engineering best practices across business-critical services.
 
 ---
 
@@ -74,22 +58,13 @@ I currently work as a **Senior Software Engineer at Aella MFB**, where I lead sy
 - 🇪🇺 Eligible for **EU Blue Card sponsorship**
 - 🗣️ English (Proficient), German (A1)
 
-<!-- ---
-
-### 📈 GitHub Stats
-
-<p align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=the-cre8tor&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-cre8tor&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
 ---
 
 ### 🤝 Let’s Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/thecre8tor/)
-- 💻 [GitHub](https://github.com/the-cre8tor)
+- 💻 [GitHub](https://github.com/thecre8tor)
 - 📬 cre8tor.alexander@gmail.com
 
-> 🛠️ Open to Rust backend engineering opportunities in Germany or across Europe.  
+> 🛠️ Open to backend engineering roles using Rust or Node.js, with a focus on performance, resilience, and system design.  
 > Let’s build scalable, efficient, and future-proof systems together.
